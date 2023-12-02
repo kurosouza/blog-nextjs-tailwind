@@ -9,6 +9,6 @@ linkedin:
 github: https://github.com/kurosouza
 ---
 
-Kuro Souza is a software engineer from Nigeria living in Europe. He has had a passion for technology and programming from his teenage years. Mostly inspired by video games and simple electronic gadgets.
+I am a software engineer from Port Harcourt, Nigeria currently living and working in Europe. I have had a passion for technology and programming from my teenage years. I was mostly inspired by video games and simple electronic gadgets.
 
-He works as a software engineer at a large tech company in the Netherlands and spends most of his time reading scifi books and listening to hip hop music.
+I work as a software engineer for large tech company in the Netherlands. When I am not writing code, I like to read scifi books, listen to hip hop music and hang out with my family.
