@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Kuro Souza
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Coder, Hip-hop Head, Father
+# company: Stanford University
+email: codewithkuro[at]gmail.com
+twitter: https://twitter.com/kurosouza
+linkedin:
+github: https://github.com/kurosouza
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Kuro Souza is a software engineer from Nigeria living in Europe. He has had a passion for technology and programming from his teenage years. Mostly inspired by video games and simple electronic gadgets.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He works as a software engineer at a large tech company in the Netherlands and spends most of his time reading scifi books and listening to hip hop music.
